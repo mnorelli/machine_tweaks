@@ -1,0 +1,38 @@
+{
+	"added_words":
+	[
+		"hydrotest",
+		"chargeability",
+		"Juris",
+		"geospatial",
+		"Norelli",
+		"Esri"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+     [
+	     "*.DS_Store",
+	     "*.pyc",
+	     "*.git"
+     ],
+	"fade_fold_buttons": false,
+	"file_exclude_patterns": [],
+	"highlight_modified_tabs": true,
+	"indent_to_bracket": true,
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto",
+	"wrap_width": 80,
+	"rulers": [79]
+
+}
